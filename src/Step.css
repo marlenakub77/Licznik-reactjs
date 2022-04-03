@@ -1,0 +1,12 @@
+.step {
+    color: blue;
+    font-weight: 600;
+    margin: 5px;
+    font-size: 16px;
+
+}
+
+input {
+    width: 80px;
+    margin: 5px;
+}
